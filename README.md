@@ -12,7 +12,7 @@ Inicialmente adicionai uma foto minha e descrevi qual o ambiente que gostaria de
 ## 🚀 Resultados
 Bom, ao final o projeto ficou interessante, pois ela atualizou para que os movimentos e as expressões pudessem ficar o mais natural possível. 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### Demonstração do Projeto
+
+[**Clique aqui para fazer o download e assistir ao vídeo**](video.mp4)
 
