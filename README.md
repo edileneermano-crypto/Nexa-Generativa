@@ -10,7 +10,7 @@ A tencologia que utilizei foi a runwayml, colocando uma foto minha e áudio com 
 Inicialmente adicionai uma foto minha e descrevi qual o ambiente que gostaria de estar, após isso, coloquei um áudio rápido meu traduzindo pouco do que queria passar.
 
 ## 🚀 Resultados
-Bom, ao final o projeto ficou interessante, pois ela atualizou para que os movimentos e as expressões pudessem ficar o mais natural possível. 
+Bom, ao final o projeto ficou interessante, pois ela atualizou para que os movimentos e as expressões pudessem ficar o mais natural possível.
 
 ### Demonstração do Projeto
 
